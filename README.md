@@ -1,4 +1,4 @@
-### Working on new technologies
+Software Engineer with 10+ years of experience in Web Development, Software Architecture, and IT Project Management. Currently pursuing a PhD, and actively involved in research projects with international teams.
 
 <!--
 **arielposada/arielposada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
